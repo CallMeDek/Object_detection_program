@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cacatua galerita</folder>
+	<filename>7e9ffca492c16941379f3fa9bf1e2084.jpg</filename>
+	<path>/home/ubuntu/Programs/python_projects/img_annotation_project/labelImg/bird_pics/train/Cacatua galerita/7e9ffca492c16941379f3fa9bf1e2084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cacatua galerita</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>70</ymin>
+			<xmax>191</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cacatua goffiniana</folder>
+	<filename>202693e96152c8f9bc9241f7370d5721.jpg</filename>
+	<path>/home/ubuntu/Programs/python_projects/img_annotation_project/labelImg/bird_pics/train/Cacatua goffiniana/202693e96152c8f9bc9241f7370d5721.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cacatua goffiniana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>83</ymin>
+			<xmax>579</xmax>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

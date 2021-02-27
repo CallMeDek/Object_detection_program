@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Ara chloroptera</folder>
+	<filename>0acc46eac57b760cc501628f6158d500.jpg</filename>
+	<path>/home/ubuntu/Programs/python_projects/img_annotation_project/labelImg/bird_pics/train/Ara chloroptera/0acc46eac57b760cc501628f6158d500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ara chloroptera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>24</ymin>
+			<xmax>223</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

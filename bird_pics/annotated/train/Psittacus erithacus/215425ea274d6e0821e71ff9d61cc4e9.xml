@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Psittacus erithacus</folder>
+	<filename>215425ea274d6e0821e71ff9d61cc4e9.jpg</filename>
+	<path>/home/ubuntu/Programs/python_projects/img_annotation_project/labelImg/bird_pics/train/Psittacus erithacus/215425ea274d6e0821e71ff9d61cc4e9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Psittacus erithacus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>53</ymin>
+			<xmax>197</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

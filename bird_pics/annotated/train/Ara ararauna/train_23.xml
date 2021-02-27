@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ara ararauna</folder>
+	<filename>train_23.jpg</filename>
+	<path>/home/ubuntu/Programs/python_projects/img_annotation_project/labelImg/bird_pics/train/Ara ararauna/train_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ara ararauna</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>130</ymin>
+			<xmax>384</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>
